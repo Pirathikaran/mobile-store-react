@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/mobile-store-react/static/css/main.5f361e03.chunk.css",
-    "main.js": "/mobile-store-react/static/js/main.170bcc44.chunk.js",
-    "main.js.map": "/mobile-store-react/static/js/main.170bcc44.chunk.js.map",
+    "main.css": "/mobile-store-react/static/css/main.7be53784.chunk.css",
+    "main.js": "/mobile-store-react/static/js/main.4f6c8528.chunk.js",
+    "main.js.map": "/mobile-store-react/static/js/main.4f6c8528.chunk.js.map",
     "runtime-main.js": "/mobile-store-react/static/js/runtime-main.6f7c3ca2.js",
     "runtime-main.js.map": "/mobile-store-react/static/js/runtime-main.6f7c3ca2.js.map",
-    "static/js/2.e76b434c.chunk.js": "/mobile-store-react/static/js/2.e76b434c.chunk.js",
-    "static/js/2.e76b434c.chunk.js.map": "/mobile-store-react/static/js/2.e76b434c.chunk.js.map",
+    "static/css/2.de424728.chunk.css": "/mobile-store-react/static/css/2.de424728.chunk.css",
+    "static/js/2.82723918.chunk.js": "/mobile-store-react/static/js/2.82723918.chunk.js",
+    "static/js/2.82723918.chunk.js.map": "/mobile-store-react/static/js/2.82723918.chunk.js.map",
     "index.html": "/mobile-store-react/index.html",
-    "precache-manifest.a6237ddd21d7e6db16246c5d2b7c5e51.js": "/mobile-store-react/precache-manifest.a6237ddd21d7e6db16246c5d2b7c5e51.js",
+    "precache-manifest.3fbfd6eec7bb4c705d95df29e8c84b30.js": "/mobile-store-react/precache-manifest.3fbfd6eec7bb4c705d95df29e8c84b30.js",
     "service-worker.js": "/mobile-store-react/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/mobile-store-react/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.e76b434c.chunk.js.LICENSE.txt": "/mobile-store-react/static/js/2.e76b434c.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/mobile-store-react/static/media/logo.5d5d9eef.svg"
+    "static/css/2.de424728.chunk.css.map": "/mobile-store-react/static/css/2.de424728.chunk.css.map",
+    "static/css/main.7be53784.chunk.css.map": "/mobile-store-react/static/css/main.7be53784.chunk.css.map",
+    "static/js/2.82723918.chunk.js.LICENSE.txt": "/mobile-store-react/static/js/2.82723918.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6f7c3ca2.js",
-    "static/js/2.e76b434c.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.170bcc44.chunk.js"
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.82723918.chunk.js",
+    "static/css/main.7be53784.chunk.css",
+    "static/js/main.4f6c8528.chunk.js"
   ]
 }
