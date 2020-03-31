@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mobile-store-react/static/css/main.5f361e03.chunk.css",
-    "main.js": "/mobile-store-react/static/js/main.fe4a30ba.chunk.js",
-    "main.js.map": "/mobile-store-react/static/js/main.fe4a30ba.chunk.js.map",
+    "main.js": "/mobile-store-react/static/js/main.170bcc44.chunk.js",
+    "main.js.map": "/mobile-store-react/static/js/main.170bcc44.chunk.js.map",
     "runtime-main.js": "/mobile-store-react/static/js/runtime-main.6f7c3ca2.js",
     "runtime-main.js.map": "/mobile-store-react/static/js/runtime-main.6f7c3ca2.js.map",
     "static/js/2.e76b434c.chunk.js": "/mobile-store-react/static/js/2.e76b434c.chunk.js",
     "static/js/2.e76b434c.chunk.js.map": "/mobile-store-react/static/js/2.e76b434c.chunk.js.map",
     "index.html": "/mobile-store-react/index.html",
-    "precache-manifest.7f577f527ac3db49da16ea95b7d21040.js": "/mobile-store-react/precache-manifest.7f577f527ac3db49da16ea95b7d21040.js",
+    "precache-manifest.a6237ddd21d7e6db16246c5d2b7c5e51.js": "/mobile-store-react/precache-manifest.a6237ddd21d7e6db16246c5d2b7c5e51.js",
     "service-worker.js": "/mobile-store-react/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/mobile-store-react/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.e76b434c.chunk.js.LICENSE.txt": "/mobile-store-react/static/js/2.e76b434c.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.6f7c3ca2.js",
     "static/js/2.e76b434c.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.fe4a30ba.chunk.js"
+    "static/js/main.170bcc44.chunk.js"
   ]
 }
