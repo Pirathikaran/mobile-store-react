@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7682bdc631b8a5d9df1ab8716cf35400",
+    "revision": "3e980cd98679474969d216c9b3cf1069",
     "url": "/mobile-store-react/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mobile-store-react/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "d7f0271073398a7dbb92",
+    "revision": "0025d32c3078cc409a15",
     "url": "/mobile-store-react/static/css/main.7be53784.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mobile-store-react/static/js/2.82723918.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d7f0271073398a7dbb92",
-    "url": "/mobile-store-react/static/js/main.4f6c8528.chunk.js"
+    "revision": "0025d32c3078cc409a15",
+    "url": "/mobile-store-react/static/js/main.08781ac4.chunk.js"
   },
   {
     "revision": "579737c961afdd0ebc50",
