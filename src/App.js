@@ -3,8 +3,11 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css'
 function App() {
   return (
-    <h1>Hello pirathi </h1>
+    <div>
+      <h1>Hello pirathi </h1>
+    <h2>Welcome</h2>
+    </div>
+    
   );
 }
-// dsdsd
 export default App;
